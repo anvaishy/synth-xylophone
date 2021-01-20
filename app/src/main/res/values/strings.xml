@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">synth</string>
+    <string name="butto">b0</string>
+    <string name="butt">b2</string>
+    <string name="but">b4</string>
+    <string name="bu">e0</string>
+    <string name="b">e2</string>
+    <string name="utton">e4</string>
+    <string name="uttn">e5</string>
+    <string name="utto">e7</string>
+    <string name="utt">e9</string>
+</resources>
